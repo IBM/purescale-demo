@@ -24,3 +24,9 @@ Another important Db2 scalability feature that goes together with transparent ap
 
 Db2 pureScale takes availability to a new level when compared to other offerings available on distributed platforms. Db2 pureScale provides full access to every page of data that does not need recovery and is always aware of which specific pages need recovery without having to perform a single I/O operation. This is yet another important innovation made possible through the unique capabilities of a centralized CF. 
 
+## Quick Links
+
+* Reserving a Db2 pureScale Simulator Instance: [TechZone Link](https://ibm.biz/techzone-purescale)
+* Simulator Documentation: [Documentation](https://IBM.github.io/purescale-demo/)
+* Db2 pureScale Documentation: [Db2 pureScale](https://www.ibm.com/docs/en/db2/12.1?topic=editions-introduction-db2-purescale-environment)
+

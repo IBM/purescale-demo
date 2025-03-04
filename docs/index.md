@@ -27,6 +27,6 @@ Db2 pureScale takes availability to a new level when compared to other offerings
 ## Quick Links
 
 * Reserving a Db2 pureScale Simulator Instance: [TechZone Link](https://ibm.biz/techzone-purescale)
-* Simulator Documentation: [Github]
+* Simulator Documentation: [Documentation](https://IBM.github.io/purescale-demo/)
 * Db2 pureScale Documentation: [Db2 pureScale](https://www.ibm.com/docs/en/db2/12.1?topic=editions-introduction-db2-purescale-environment)
 
