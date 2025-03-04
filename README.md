@@ -1,2 +1,2 @@
 # purescale-demo
-pureScale Simulator documentation and download Code
+Documentation for pureScale simulator.

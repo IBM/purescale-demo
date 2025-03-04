@@ -1,0 +1,40 @@
+site_name: pureScale Simulator
+# theme:
+#   name: material
+nav:
+  - Introduction: "ps-intro.md"
+  - Reserving an Instance: "ps-reservation.md"
+
+  - Using the Simulator: 
+    - Accessing the System: "ps-getting-started.md"
+    - Starting the Simulator: "ps-startup.md"
+    - pureScale Components: "ps-components.md"
+    - Client Configuration: "ps-clients.md"
+    - Member Configuration: "ps-members.md"
+    - Cluster Caching Facility: "ps-cf.md"
+    - Spectrum Scale: "ps-gpfs.md"
+    - Script Playback: "ps-playback.md"
+    - Recording a Script: "ps-recording.md"
+    - Simulator Options: "ps-settings.md"
+  - Disclaimer: "ps-disclaimer.md"
+  - Acknowledgements: "ps-acknowledgements.md"
+
+  # Copyright
+copyright: Copyright &copy; 2025 IBM 
+
+# Theme
+theme:
+  name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  logo: ps-images/IBM_logo®_rev_RGB.png  
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences    
